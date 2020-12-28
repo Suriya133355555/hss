@@ -42,5 +42,10 @@
 @import url("plugins/swiper.min.css");
 
 /* font awesome */
-@import url ("Font Awesome 5 Free-Regular-400");
 
+
+ @font-face {
+	font-family: 'FontAwesome';
+	src: url('fonts/Font Awesome 5 Free-Regular-400.ttf') format('truetype'); 
+	src: url('fonts/Font Awesome 5 Free-Regular-400.otf') format("opentype"); 
+}
